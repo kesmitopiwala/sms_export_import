@@ -11,15 +11,15 @@ This package is used for import and export messages in your app.
 
 | SMS & MMS export                                                                                                                                                                        |
 | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| ![](https://github.com/kesmitopiwala/pip_flutter/blob/master/assets/pipmode.png) | ![](https://github.com/kesmitopiwala/pip_flutter/blob/master/assets/disablepipmode.png) |
-| ![](https://github.com/kesmitopiwala/pip_flutter/blob/master/assets/pipmode.png) | ![](https://github.com/kesmitopiwala/pip_flutter/blob/master/assets/disablepipmode.png) |
+| ![](https://github.com/kesmitopiwala/sms_export_import/blob/master/assets/ss1.png) | ![](https://github.com/kesmitopiwala/sms_export_import/blob/master/assets/ss4.png) |
+| ![](https://github.com/kesmitopiwala/sms_export_import/blob/master/assets/ss5.png) | ![](https://github.com/kesmitopiwala/sms_export_import/blob/master/assets/ss6.png) |
                                                                                     |
 <br>
 
 | SMS & MMS import                                                                                                                                                                        |
 | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| ![](https://github.com/kesmitopiwala/pip_flutter/blob/master/assets/pipmode.png) | ![](https://github.com/kesmitopiwala/pip_flutter/blob/master/assets/disablepipmode.png) |
-| ![](https://github.com/kesmitopiwala/pip_flutter/blob/master/assets/pipmode.png) |                                                                                         |
+| ![](https://github.com/kesmitopiwala/sms_export_import/blob/master/assets/ss7.png) | ![](https://github.com/kesmitopiwala/sms_export_import/blob/master/assets/ss8.png) |
+| ![](https://github.com/kesmitopiwala/sms_export_import/blob/master/assets/ss9.png) |                                                                                    |
 
 <br>
 
