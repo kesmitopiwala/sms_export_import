@@ -6,7 +6,8 @@ class SmsExportImport {
   static const EventChannel _stream = EventChannel('sms_event_channel_data');
 
   ///For Sms export
-  static Future<Map<dynamic, dynamic>?> export({required Function totalMessageStream}) async {
+  static Future<Map<dynamic, dynamic>?> export(
+      {required Function totalMessageStream}) async {
     ///Set listener for get total sms and mms
     _stream.receiveBroadcastStream().listen((onData) {
       print("LISTEN::$onData");
@@ -19,7 +20,8 @@ class SmsExportImport {
   }
 
   ///For Sms import
-  static Future<Map<dynamic, dynamic>?> import({required Function totalMessageStream}) async {
+  static Future<Map<dynamic, dynamic>?> import(
+      {required Function totalMessageStream}) async {
     ///Set listener for get total sms and mms
     _stream.receiveBroadcastStream().listen((onData) {
       print("LISTEN::$onData");
