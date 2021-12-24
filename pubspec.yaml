@@ -1,6 +1,6 @@
 name: sms_export_import
 description: This package is used for import and export messages in your app.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/kesmitopiwala/sms_export_import/blob/master/example/lib/main.dart
 
 environment:

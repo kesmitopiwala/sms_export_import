@@ -2,3 +2,7 @@
 
 * TODO: Describe initial release.
 
+## 0.0.2
+
+* Changes in readme file
+
