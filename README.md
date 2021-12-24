@@ -20,7 +20,7 @@ This package is used for import and export messages in your app.
 | SMS & MMS import                                                                             |                                                                 |
 | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------|
 | ![](https://github.com/kesmitopiwala/sms_export_import/blob/master/assets/ss7.png) | ![](https://github.com/kesmitopiwala/sms_export_import/blob/master/assets/ss8.png) |
-| ![](https://github.com/kesmitopiwala/sms_export_import/blob/master/assets/ss9.png) |                                                                          |                                                                              
+| ![](https://github.com/kesmitopiwala/sms_export_import/blob/master/assets/ss9.png) |                                                                                    |                                                                              
 
 <br>
 
